@@ -60,14 +60,6 @@ section .row:nth-child(even) divdiv:nth-child(even) {
           animation-delay: -40s;
 }
 
-/*section .row:nth-child(even) div{
-    animation:animate3 80s linear infinite;
-    animation-delay: -80s; 
-    &div:nth-child(even){
-     animation:animate4 80s linear infinite;
-     animation-delay: -40s; 
-    }
-}*/
 i {
   color: rgba(0, 0, 0, 0.5);
   -webkit-transition: 1s;
